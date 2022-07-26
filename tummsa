@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Tummsa website</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+ <h1>
+   TUMMSA
+ </h1>
+  <h2>
+    About tummsa
+  </h2>
+  <p>
+    The association is known as the Technical University of Mombasa Muslims Students Association.
+  </p>
+  <p>
+   The aim and purpose of the Association is to serve the best interest of Islam and the muslims of TUM in particular, and muslim community in general.  
+  </p>
+  <p>
+The Association is a non-profit organization, and the fundamental purpose
+of the Association is to encourage and enable Muslims with the basic
+knowledge and competence in Islam to contribute individually and collectively
+towards meeting human needs in conformity with Islamic doctrines and beliefs. It is also the purpose of the Association to avoid any wrong practices in Islam
+and to create a feeling of brotherhood.
+  </p>
+  
+
+</body>
+
+</html>
